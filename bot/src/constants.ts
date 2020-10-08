@@ -62,5 +62,5 @@ Object.entries(COLOR_EMOTES).forEach(x => (EMOTE_IDS_TO_COLOR[x[1].split(":")[1]
 
 export const GROUPING_DISABLED_EMOJI = "<:warningNo:729662084077453394>";
 export const GROUPING_ENABLED_EMOJI = "<:warningYes:729662084366991410>";
-export const GROUPING_TOGGLE_EMOJI = "<:warningModify:729662084346019842>";
-export const LEAVE_EMOJI = "<:fastfoward:729687243790483517>";
+export const GROUPING_TOGGLE_EMOJI = ":warningModify:729662084346019842";
+export const LEAVE_EMOJI = ":fastfoward:729687243790483517";
